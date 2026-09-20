@@ -1,4 +1,47 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 📍 وين الخدمة؟ (Wen Al-Khedma)
+
+> منصة رقمية تفاعلية تسهّل الوصول إلى الخدمات الأساسية ونقاط الدعم المجتمعي ومواقع تقديم الخدمات الحيوية عبر واجهة واضحة وسريعة.
+
+---
+
+## 📌 عن المشروع
+
+يسعى مشروع **"وين الخدمة"** إلى تنظيم وعرض أماكن الخدمات المتاحة للجمهور، وتوفير معلومات الاتصال وساعات العمل والمسارات للوصول إليها، بهدف مساعدة المواطنين على إيجاد احتياجاتهم اليومية ونقاط الدعم المباشرة بأقصر وقت وأقل مجهود.
+
+---
+
+## 🚀 المميزات الرئيسية
+
+- 🗺️ **خريطة تفاعلية للخدمات:** استعراض مواقع الخدمات وتحديد الأقرب منها.
+- 🔍 **تصنيف وبحث مرن:** إمكانية البحث حسب نوع الخدمة، المنطقة، أو الحالة.
+- 📱 **واجهة مستخدم متجاوبة:** متوافقة كلياً مع مختلف شاشات الهواتف والأجهزة اللوحية والمكتبية.
+- ⚡ **لوحة تحكم إدارية:** إدارة وتحديث أماكن وبيانات الخدمات بشكل فوري ودقيق.
+
+---
+
+## 🛠️ التقنيات المستخدمة
+
+- **الواجهة الخلفية (Backend):** [Laravel 11](https://laravel.com/) (PHP 8.3)
+- **قاعدة البيانات:** MySQL
+- **الواجهة الأمامية (Frontend):** Blade Templates, Tailwind CSS / Bootstrap, JavaScript
+- **الخرائط:** Leaflet / OpenStreetMap
+
+---
+
+## ⚙️ متطلبات التشغيل محلياً (Prerequisites)
+
+- PHP >= 8.2
+- Composer
+- خادم محلي يدعم MySQL (مثل Laragon أو XAMPP)
+
+---
+
+## 💻 طريقة التثبيت والتشغيل
+
+1. **استنساخ المستودع (Clone the repository):**
+   ```bash
+   git clone [https://github.com/mosab-Shanty/wenalkhedma.git](https://github.com/mosab-Shanty/wenalkhedma.git)
+   cd wenalkhedma<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
